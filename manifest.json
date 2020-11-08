@@ -1,0 +1,6 @@
+{
+  "name": "YouTubeTabsToPlaylist",
+  "version": "0.1",
+  "description": "create a YouTube playlist from opend tabs",
+  "manifest_version": 2
+}
